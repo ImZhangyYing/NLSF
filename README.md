@@ -3,6 +3,12 @@ Code of A Nested Self-Supervised Learning Framework for 3-D Semantic Segmentatio
 # To download:
 File of the train, test, model and datasets 
 Available at https://pan.baidu.com/s/1uLicBywwEOk9dqnppfKa7w?pwd=37mi
+</ul>
+<svg></a>Requirements</h1>
+<li>Python 3.12.7</li>
+<li>PyTorch 2.4.1</li>
+</ul>
+
 # To train:
 1) For the 1) stage: image reconstruction: run train_unet.py;
 2) For the 2) stage: feature fusion: run train_fusenet_gsvl.py;
