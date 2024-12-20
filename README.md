@@ -4,6 +4,7 @@ Code of A Nested Self-Supervised Learning Framework for 3-D Semantic Segmentatio
 # To download:
 Zip File of the train, test, model  
 Available at https://pan.baidu.com/s/1scTJ3Q_NtQoAyccY_605HA?pwd=c7kc, Extract code: c7kc
+
 The dataset link is : https://www.kaggle.com/datasets/dschettler8845/brats-2021-task1
 
 </ul>
