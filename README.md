@@ -1,8 +1,11 @@
 # NLSF
 Code of A Nested Self-Supervised Learning Framework for 3-D Semantic Segmentation-Driven Multi-modal Medical Image Fusion
+
 # To download:
-File of the train, test, model and datasets 
+Zip File of the train, test, model  
 Available at https://pan.baidu.com/s/1scTJ3Q_NtQoAyccY_605HA?pwd=c7kc, Extract code: c7kc
+The dataset link is : https://www.kaggle.com/datasets/dschettler8845/brats-2021-task1
+
 </ul>
 <svg></a>Requirements</h1>
 <li>Python 3.12.7</li>
